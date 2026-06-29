@@ -162,11 +162,4 @@ ResourceAnalyzerAPI`
 - **EBS Optimization:** 10-25% reduction in storage costs
 - **Overall:** 20-35% reduction in total AWS bill
 
-## **🤝 Contributing**
-- Fork the repository
-- Create a feature branch (git checkout -b feature/amazing-feature)
-- Commit your changes (git commit -m 'Add amazing feature')
-- Push to the branch (git push origin feature/amazing-feature)
-- Open a Pull Request
-
 ## **Built with ❤️ for AWS cost optimization**
